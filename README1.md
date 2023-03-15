@@ -17,4 +17,6 @@ Hi, I'm Benn. You might recognize me as GitHub's mascot.
 
 !REF :
 
-https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+1. https://docs.github.com/en/get-started/writing-on-github
+
+2. https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
